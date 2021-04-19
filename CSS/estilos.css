@@ -1,0 +1,65 @@
+*body{
+            background-color:black; 
+                text-align:center;
+                color:white;
+                font-family: 'helvetica', serif;
+                font-weight: 100;
+                width: 75%;
+                padding:50px;
+                margin-top:20px;
+                margin-left:150px;
+                /* viewport widht vw -
+                viewport height vh */
+        }
+        h1{
+            font-weight: 200;
+            color:#f9c017;
+            font-size:1.5em; /* o 1.5rem ruteado a html*/
+
+        }
+        h2{
+            color:#f9c017;
+        }
+        h3{
+            color:#f9c017;;
+        }
+        </style>
+
+        /*ETIQUETA CLASE definis una clase 
+        y luego la aplicas donde quieras*/
+
+        .especial {
+            color:red;
+            font: size 20px;border-right:2px;
+        }
+        <p class="especial">
+
+        /*ETIQUETA ID se usa una sola vez */
+        #header{
+            border: 3px solid black;
+        }
+
+        <div id="header">
+        
+        /*SELECTOR UNIVERSAL
+        * { busca todo*/
+        
+            *{margin:5px;
+            padding:3px;
+            
+        </div>
+        
+        .principal{
+        width: 75%
+        padding:20px;
+        margin-top:20px;
+        }
+        /*
+    padding=relleno} */
+
+    <nav
+    .caja1{float:left;}
+    .caja2{float:left;}
+        
+    hacer que suba*/
+ 
