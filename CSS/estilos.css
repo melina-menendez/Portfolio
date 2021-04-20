@@ -1,6 +1,6 @@
 *body{
-            background-color:black; 
-                text-align:center;
+    background-color:black; 
+    text-align:center;
                 color:white;
                 font-family: 'helvetica', serif;
                 font-weight: 100;
@@ -23,26 +23,25 @@
         h3{
             color:#f9c017;;
         }
-        </style>
 
         /*ETIQUETA CLASE definis una clase 
-        y luego la aplicas donde quieras*/
+        y luego la aplicas donde quieras
 
-        .especial {
+    .especial {
             color:red;
             font: size 20px;border-right:2px;
         }
         <p class="especial">
 
-        /*ETIQUETA ID se usa una sola vez */
+        /*ETIQUETA ID se usa una sola vez 
         #header{
             border: 3px solid black;
         }
 
         <div id="header">
         
-        /*SELECTOR UNIVERSAL
-        * { busca todo*/
+        SELECTOR UNIVERSAL
+        * { busca todo
         
             *{margin:5px;
             padding:3px;
@@ -55,7 +54,7 @@
         margin-top:20px;
         }
         /*
-    padding=relleno} */
+    padding=relleno} 
 
     <nav
     .caja1{float:left;}
