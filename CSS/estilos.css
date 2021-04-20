@@ -1,4 +1,4 @@
-*body{
+body{
     background-color:black; 
     text-align:center;
                 color:white;
@@ -21,7 +21,7 @@
             color:#f9c017;
         }
         h3{
-            color:#f9c017;;
+            color:#f9c017;
         }
 
         /*ETIQUETA CLASE definis una clase 
@@ -61,4 +61,3 @@
     .caja2{float:left;}
         
     hacer que suba*/
- 
